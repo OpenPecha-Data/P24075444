@@ -1,0 +1,31 @@
+id: P24075444
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA00KG07630
+  instance_id: http://purl.bdrc.io/resource/IE00KG07630
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - གཙོས་མི་རིགས་དགེ་འོས་མཐོ་རིམ་ཆེད་སྦྱོང་སློབ་གྲྭའི་དཔྱད་རྩོམ་ཕྱོགས་བསྒྲིགས།
+  alt_title:
+    zh-latn-pinyin-x-ndia:
+    - he zuo min zu shi fan gao deng zhuan ke xue xiao shu lun wen ji
+  author: None
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    d263ecb7ad444769824bfaaae1cc37fb:
+      title: པོད ༡་གཙོས་མི་རིགས་དགེ་འོས་མཐོ་རིམ་ཆེད་སྦྱོང་སློབ་གྲྭའི་དཔྱད་རྩོམ་ཕྱོགས་བསྒྲིགས
+      volume_number: 1
+      base_file: UT00KG07630_I00KG08432_0000.txt
+      reference: http://purl.bdrc.io/resource/VLBE22655EC74BC663
+      image_group: I00KG08432
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW00KG07630
+  - http://purl.bdrc.io/resource/W00KG07630
+  ocr_software: Namsel
+created_at: '2021-12-22T10:17:31.908894'
+last_modified_at: '2021-12-22T10:17:31.908901'
